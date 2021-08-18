@@ -3,7 +3,7 @@ ARK aims to upload a number of files that help dimension the opportunity for Spa
 
 The file Open Source Starlink TAM is a rough approximation of Starlink's total addressable market.
 
-Before you do anything, please read this [blog](http://www.ARK-invest.com) for a more detailed discussion of our assessment.
+Before you do anything, please read this [blog](https://ark-invest.com/articles/analyst-research/starlink/) for a more detailed discussion of our assessment.
 
 The key inputs for this model are: 
 - The number of satellites in the constellation. 
