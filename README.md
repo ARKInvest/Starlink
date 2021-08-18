@@ -1,7 +1,7 @@
 # Starlink
 ARK aims to upload a number of files that help dimension the opportunity for SpaceX's Starlink.
 
-The first open-source model is a rough approximation of Starlink's total addressable market.
+The file Open Source Starlink TAM is a rough approximation of Starlink's total addressable market.
 
 Before you do anything, please read this blog for a more detailed discussion of our assessment.
 
