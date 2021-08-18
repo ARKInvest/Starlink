@@ -5,7 +5,7 @@ The file Open Source Starlink TAM is a rough approximation of Starlink's total a
 
 Before you do anything, please read this blog for a more detailed discussion of our assessment.
 
- The key inputs for this model are: 
+The key inputs for this model are: 
 The number of satellites in the constellation. 
 The bandwidth of each satellite (measured in megabits per second Mbps). 
 The oversubscription ratio. (Not everyone in the same area is online at the same time) 
